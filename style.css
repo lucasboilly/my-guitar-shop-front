@@ -44,7 +44,8 @@ img {
 .guitar:hover {
     border-color: rgba(0, 0, 0, 0.15);
     transition: 0.2s;
-    box-shadow: 0px 4px 12px rgba(0,0,0,0.05);
+    box-shadow: 0px 8px 24px rgba(0,0,0,0.05);
+    transform: translateY(-4px);
 }   
 .name {
     width: 100%;
